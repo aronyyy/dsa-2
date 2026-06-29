@@ -35,4 +35,12 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aronyyy/dsa-2/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aronyyy/dsa-2/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
