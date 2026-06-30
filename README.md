@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aronyyy/dsa-2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/aronyyy/dsa-2/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aronyyy/dsa-2/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aronyyy/dsa-2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
