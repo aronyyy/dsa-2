@@ -11,12 +11,14 @@
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
 | ------- |
@@ -30,11 +32,13 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 ## Two Pointers
 |  |
 | ------- |
