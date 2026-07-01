@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aronyyy/dsa-2/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aronyyy/dsa-2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Depth-First Search
 |  |
@@ -20,6 +21,7 @@
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aronyyy/dsa-2/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aronyyy/dsa-2/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
