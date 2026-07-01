@@ -22,6 +22,9 @@ public:
                     if (dis + 1 < dist[nrow][ncol]){
                         dist[nrow][ncol] = dis + 1;
                         q.push({dis+1, {nrow, ncol}});
+                        if (nrow == n-1 && ncol == n-1){
+                            return dis + 1;
+                        }
                     }
                 }
             }   
