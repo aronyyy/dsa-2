@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/aronyyy/dsa-2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
@@ -21,6 +22,7 @@
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/aronyyy/dsa-2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aronyyy/dsa-2/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -38,6 +40,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/aronyyy/dsa-2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
@@ -81,9 +84,11 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/aronyyy/dsa-2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/aronyyy/dsa-2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
