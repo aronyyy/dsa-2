@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
@@ -20,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aronyyy/dsa-2/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
@@ -36,6 +38,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/aronyyy/dsa-2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aronyyy/dsa-2/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aronyyy/dsa-2/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -61,6 +64,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/aronyyy/dsa-2/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aronyyy/dsa-2/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +78,12 @@
 |  |
 | ------- |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aronyyy/dsa-2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
