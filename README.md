@@ -6,6 +6,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/aronyyy/dsa-2/tree/master/0416-partition-equal-subset-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aronyyy/dsa-2/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aronyyy/dsa-2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Depth-First Search
@@ -90,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aronyyy/dsa-2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Heap (Priority Queue)
 |  |
@@ -110,4 +112,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aronyyy/dsa-2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
