@@ -68,6 +68,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aronyyy/dsa-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/aronyyy/dsa-2/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aronyyy/dsa-2/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/aronyyy/dsa-2/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -110,10 +111,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aronyyy/dsa-2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/aronyyy/dsa-2/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aronyyy/dsa-2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/aronyyy/dsa-2/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
