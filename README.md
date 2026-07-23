@@ -125,4 +125,8 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aronyyy/dsa-2/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/aronyyy/dsa-2/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
