@@ -7,6 +7,7 @@
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/aronyyy/dsa-2/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/aronyyy/dsa-2/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aronyyy/dsa-2/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aronyyy/dsa-2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/aronyyy/dsa-2/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/aronyyy/dsa-2/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
