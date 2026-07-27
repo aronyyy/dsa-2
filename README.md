@@ -77,6 +77,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aronyyy/dsa-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/aronyyy/dsa-2/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aronyyy/dsa-2/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aronyyy/dsa-2/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aronyyy/dsa-2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aronyyy/dsa-2/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -167,6 +169,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/aronyyy/dsa-2/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
