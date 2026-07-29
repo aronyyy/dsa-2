@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/aronyyy/dsa-2/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/aronyyy/dsa-2/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aronyyy/dsa-2/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/aronyyy/dsa-2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -135,6 +137,7 @@
 | [0037-sudoku-solver](https://github.com/aronyyy/dsa-2/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aronyyy/dsa-2/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 | [0055-jump-game](https://github.com/aronyyy/dsa-2/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aronyyy/dsa-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/aronyyy/dsa-2/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/aronyyy/dsa-2/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
@@ -181,6 +185,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 | [1710-maximum-units-on-a-truck](https://github.com/aronyyy/dsa-2/tree/master/1710-maximum-units-on-a-truck) |
 ## Tree
 |  |
@@ -202,4 +207,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
