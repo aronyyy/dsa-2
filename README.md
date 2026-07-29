@@ -11,6 +11,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aronyyy/dsa-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aronyyy/dsa-2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/aronyyy/dsa-2/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aronyyy/dsa-2/tree/master/0860-lemonade-change) |
@@ -118,6 +119,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/aronyyy/dsa-2/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aronyyy/dsa-2/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -176,6 +178,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/aronyyy/dsa-2/tree/master/1710-maximum-units-on-a-truck) |
@@ -191,4 +194,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aronyyy/dsa-2/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
