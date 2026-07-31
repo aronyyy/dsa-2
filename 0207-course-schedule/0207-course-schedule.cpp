@@ -1,20 +1,20 @@
 class Solution {
 public:
-    bool dfs(int i, vector<vector<int>>& adj, vector<int>& vis, vector<int>& path){
-        vis[i] = 1;
-        path[i] = 1;
-        for (auto it: adj[i]){
-            if (!vis[it]){
-                if (dfs(it, adj, vis, path)){
+    bool dfs(int node, vector<vector<int>>&adj, vector<int>& vis, vector<int>& path){
+        vis[node] = 1;
+        path[node] = 1;
 
+        for(auto it: adj[node]){
+            if (!vis[it] && dfs(it, adj, vis, path)){
+                return true;
+            }
+            else{
+                if (path[it]){
                     return true;
                 }
             }
-            else if (path[it]){
-                return true;
-            }
         }
-        path[i] = 0;
+        path[node]=0;
         return false;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
@@ -26,10 +26,8 @@ public:
 
             adj[prereq].push_back(course);
         }
-
-        vector<int> vis(numCourses, 0);
-        vector<int> path(numCourses, 0);
-
+        vector<int> vis(numCourses);
+        vector<int> path(numCourses);
         for (int i=0; i<numCourses; i++){
             if (!vis[i]){
                 if (dfs(i, adj, vis, path)){
@@ -38,5 +36,6 @@ public:
             }
         }
         return true;
+
     }
 };
