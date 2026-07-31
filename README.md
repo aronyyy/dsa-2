@@ -15,6 +15,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/aronyyy/dsa-2/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/aronyyy/dsa-2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aronyyy/dsa-2/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/aronyyy/dsa-2/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
@@ -235,8 +236,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aronyyy/dsa-2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aronyyy/dsa-2/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aronyyy/dsa-2/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aronyyy/dsa-2/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
