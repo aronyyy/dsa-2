@@ -18,6 +18,7 @@ public:
         while(!pq.empty()){
             auto [dis, node] = pq.top();
             pq.pop();
+            if (dis > dist[node]) continue;
 
             for(auto it: adj[node]){
                 int edge = it.second;
