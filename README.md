@@ -20,6 +20,7 @@
 | [0735-asteroid-collision](https://github.com/aronyyy/dsa-2/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/aronyyy/dsa-2/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/aronyyy/dsa-2/tree/master/0907-sum-of-subarray-minimums) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aronyyy/dsa-2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aronyyy/dsa-2/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aronyyy/dsa-2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -159,6 +160,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aronyyy/dsa-2/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/aronyyy/dsa-2/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aronyyy/dsa-2/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aronyyy/dsa-2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aronyyy/dsa-2/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Database
