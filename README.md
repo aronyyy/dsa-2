@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/aronyyy/dsa-2/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aronyyy/dsa-2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/aronyyy/dsa-2/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/aronyyy/dsa-2/tree/master/0045-jump-game-ii) |
@@ -92,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/aronyyy/dsa-2/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/aronyyy/dsa-2/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aronyyy/dsa-2/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
