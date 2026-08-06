@@ -133,6 +133,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aronyyy/dsa-2/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/aronyyy/dsa-2/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -278,4 +279,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aronyyy/dsa-2/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aronyyy/dsa-2/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
