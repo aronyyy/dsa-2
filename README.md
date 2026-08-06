@@ -16,6 +16,7 @@
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/aronyyy/dsa-2/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/aronyyy/dsa-2/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/aronyyy/dsa-2/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/aronyyy/dsa-2/tree/master/0496-next-greater-element-i) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aronyyy/dsa-2/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/aronyyy/dsa-2/tree/master/0238-product-of-array-except-self) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aronyyy/dsa-2/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aronyyy/dsa-2/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
