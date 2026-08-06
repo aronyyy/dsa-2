@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/aronyyy/dsa-2/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aronyyy/dsa-2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aronyyy/dsa-2/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/aronyyy/dsa-2/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aronyyy/dsa-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aronyyy/dsa-2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aronyyy/dsa-2/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/aronyyy/dsa-2/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aronyyy/dsa-2/tree/master/0735-asteroid-collision) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aronyyy/dsa-2/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
