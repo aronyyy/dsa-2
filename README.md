@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aronyyy/dsa-2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/aronyyy/dsa-2/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/aronyyy/dsa-2/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aronyyy/dsa-2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aronyyy/dsa-2/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aronyyy/dsa-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aronyyy/dsa-2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/aronyyy/dsa-2/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/aronyyy/dsa-2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aronyyy/dsa-2/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aronyyy/dsa-2/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aronyyy/dsa-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -235,6 +237,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aronyyy/dsa-2/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
