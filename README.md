@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/aronyyy/dsa-2/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aronyyy/dsa-2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aronyyy/dsa-2/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/aronyyy/dsa-2/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/aronyyy/dsa-2/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
@@ -64,6 +65,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aronyyy/dsa-2/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aronyyy/dsa-2/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/aronyyy/dsa-2/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aronyyy/dsa-2/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -166,6 +168,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aronyyy/dsa-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/aronyyy/dsa-2/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/aronyyy/dsa-2/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/aronyyy/dsa-2/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/aronyyy/dsa-2/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aronyyy/dsa-2/tree/master/0424-longest-repeating-character-replacement) |
