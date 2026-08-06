@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aronyyy/dsa-2/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aronyyy/dsa-2/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aronyyy/dsa-2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/aronyyy/dsa-2/tree/master/0037-sudoku-solver) |
@@ -93,6 +94,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aronyyy/dsa-2/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/aronyyy/dsa-2/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/aronyyy/dsa-2/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aronyyy/dsa-2/tree/master/0344-reverse-string) |
@@ -212,6 +214,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aronyyy/dsa-2/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
