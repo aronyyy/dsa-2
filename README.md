@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aronyyy/dsa-2/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aronyyy/dsa-2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/aronyyy/dsa-2/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/aronyyy/dsa-2/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aronyyy/dsa-2/tree/master/0344-reverse-string) |
@@ -285,5 +286,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aronyyy/dsa-2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/aronyyy/dsa-2/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
