@@ -26,6 +26,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/aronyyy/dsa-2/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aronyyy/dsa-2/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/aronyyy/dsa-2/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/aronyyy/dsa-2/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aronyyy/dsa-2/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -271,6 +272,7 @@
 | [0496-next-greater-element-i](https://github.com/aronyyy/dsa-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aronyyy/dsa-2/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/aronyyy/dsa-2/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aronyyy/dsa-2/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/aronyyy/dsa-2/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/aronyyy/dsa-2/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -278,6 +280,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aronyyy/dsa-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aronyyy/dsa-2/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/aronyyy/dsa-2/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/aronyyy/dsa-2/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/aronyyy/dsa-2/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
