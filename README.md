@@ -23,6 +23,7 @@
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/aronyyy/dsa-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aronyyy/dsa-2/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/aronyyy/dsa-2/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/aronyyy/dsa-2/tree/master/0860-lemonade-change) |
@@ -105,6 +106,7 @@
 | [0125-valid-palindrome](https://github.com/aronyyy/dsa-2/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aronyyy/dsa-2/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aronyyy/dsa-2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aronyyy/dsa-2/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aronyyy/dsa-2/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aronyyy/dsa-2/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Heap (Priority Queue)
@@ -174,6 +177,7 @@
 | [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aronyyy/dsa-2/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/aronyyy/dsa-2/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aronyyy/dsa-2/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
@@ -229,6 +233,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aronyyy/dsa-2/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/aronyyy/dsa-2/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/aronyyy/dsa-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/aronyyy/dsa-2/tree/master/0621-task-scheduler) |
 | [1710-maximum-units-on-a-truck](https://github.com/aronyyy/dsa-2/tree/master/1710-maximum-units-on-a-truck) |
 ## Tree
